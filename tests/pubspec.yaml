@@ -24,7 +24,7 @@ dependencies:
   firebase_auth:
     git:
         url: https://github.com/yegobox/flutterfire.git
-        ref: 41eaf8456209927725bccbb1c4d3c32a7ea20997
+        ref: b6f887d559d69e8074cfcf268aea5c95370f7870
         path: packages/firebase_auth/firebase_auth
   firebase_auth_platform_interface:
     git:
