@@ -7,7 +7,11 @@ environment:
   sdk: '>=2.18.0 <4.0.0'
 
 dependencies:
-  firebase_core: ^2.13.0
+  firebase_core:
+        git:
+            url: https://github.com/firebase/flutterfire.git
+            ref: 4897fa02e2963961f24f1ff3a5b8d5e890e919ce
+            path: packages/firebase_core/firebase_core
   firebase_performance: ^0.9.2+1
   flutter:
     sdk: flutter

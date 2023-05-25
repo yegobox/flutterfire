@@ -10,7 +10,11 @@ environment:
 
 dependencies:
   collection: ^1.0.0
-  firebase_core: ^2.13.0
+  firebase_core:
+        git:
+            url: https://github.com/firebase/flutterfire.git
+            ref: 4897fa02e2963961f24f1ff3a5b8d5e890e919ce
+            path: packages/firebase_core/firebase_core
   firebase_core_platform_interface: ^4.8.0
   flutter:
     sdk: flutter
