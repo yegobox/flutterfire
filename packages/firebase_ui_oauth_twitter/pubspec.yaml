@@ -11,15 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   firebase_auth:
-    git:
-        url: https://github.com/yegobox/flutterfire.git
-        ref: b6f887d559d69e8074cfcf268aea5c95370f7870
-        path: packages/firebase_auth/firebase_auth
+      path: ../firebase_auth/firebase_auth
   firebase_ui_oauth:
-    git:
-        url: https://github.com/yegobox/flutterfire.git
-        ref: b6f887d559d69e8074cfcf268aea5c95370f7870
-        path: packages/firebase_ui_oauth
+    path: ../firebase_ui_oauth
   twitter_login: ^4.3.2
 
 dev_dependencies:

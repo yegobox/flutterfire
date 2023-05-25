@@ -34,10 +34,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   firebase_core:
-        git:
-            url: https://github.com/yegobox/flutterfire.git
-            ref: 57e7ddcecc920087bdb4820e212552d26dc1f7fa
-            path: packages/firebase_core/firebase_core
+      git:
+          url: https://github.com/firebase/flutterfire.git
+          ref: 4897fa02e2963961f24f1ff3a5b8d5e890e919ce
+          path: packages/firebase_core/firebase_core
   firebase_database: ^10.2.1
 dev_dependencies:
   drive: ^1.0.0-1.0.nullsafety.1

@@ -23,15 +23,13 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.2
   firebase_auth:
-    git:
-        url: https://github.com/yegobox/flutterfire.git
-        ref: b6f887d559d69e8074cfcf268aea5c95370f7870
-        path: packages/firebase_auth/firebase_auth
+      path: ../firebase_auth/firebase_auth
+  dependencies:
   firebase_core:
-        git:
-            url: https://github.com/yegobox/flutterfire.git
-            ref: 57e7ddcecc920087bdb4820e212552d26dc1f7fa
-            path: packages/firebase_core/firebase_core
+      git:
+          url: https://github.com/firebase/flutterfire.git
+          ref: 4897fa02e2963961f24f1ff3a5b8d5e890e919ce
+          path: packages/firebase_core/firebase_core
   flutter:
     sdk: flutter
   flutter_localizations:
@@ -39,10 +37,7 @@ dependencies:
   firebase_ui_auth: ^1.4.1
   firebase_ui_localizations: ^1.5.0
   firebase_ui_oauth:
-    git:
-        url: https://github.com/yegobox/flutterfire.git
-        ref: b6f887d559d69e8074cfcf268aea5c95370f7870
-        path: packages/firebase_ui_oauth
+    path: ../firebase_ui_oauth
   firebase_ui_oauth_apple: ^1.2.1
   firebase_ui_oauth_facebook: ^1.2.1
   firebase_ui_oauth_google: ^1.2.1

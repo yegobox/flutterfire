@@ -8,10 +8,10 @@ environment:
 dependencies:
   firebase_analytics: ^10.4.1
   firebase_core:
-        git:
-            url: https://github.com/yegobox/flutterfire.git
-            ref: 57e7ddcecc920087bdb4820e212552d26dc1f7fa
-            path: packages/firebase_core/firebase_core
+      git:
+          url: https://github.com/firebase/flutterfire.git
+          ref: 4897fa02e2963961f24f1ff3a5b8d5e890e919ce
+          path: packages/firebase_core/firebase_core
   firebase_crashlytics: ^3.3.1
   flutter:
     sdk: flutter
