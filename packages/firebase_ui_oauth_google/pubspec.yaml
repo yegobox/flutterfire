@@ -5,7 +5,7 @@ homepage: https://github.com/firebase/flutterfire/tree/master/packages/firebase_
 
 environment:
   sdk: '>=2.18.0 <4.0.0'
-  flutter: '>=3.3.0'
+  # flutter: '>=3.3.0'
 
 dependencies:
   firebase_auth: ^4.6.1-flipper
@@ -24,4 +24,4 @@ false_secrets:
   - '/example/**/firebase_options.dart'
   - '/example/**/GoogleService-Info.plist'
 
-flutter:
+# flutter:

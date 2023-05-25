@@ -1,210 +1,210 @@
 ## 10.2.1
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.2.0
 
- - **FEAT**: update dependency constraints to `sdk: '>=2.18.0 <4.0.0'` `flutter: '>=3.3.0'` ([#10946](https://github.com/firebase/flutterfire/issues/10946)). ([2772d10f](https://github.com/firebase/flutterfire/commit/2772d10fe510dcc28ec2d37a26b266c935699fa6))
+- **FEAT**: update dependency constraints to `sdk: '>=2.18.0 <4.0.0'` `# flutter: '>=3.3.0'` ([#10946](https://github.com/firebase/flutterfire/issues/10946)). ([2772d10f](https://github.com/firebase/flutterfire/commit/2772d10fe510dcc28ec2d37a26b266c935699fa6))
 
 ## 10.1.2
 
- - **FIX**: add support for AGP 8.0 ([#10901](https://github.com/firebase/flutterfire/issues/10901)). ([a3b96735](https://github.com/firebase/flutterfire/commit/a3b967354294c295a9be8d699a6adb7f4b1dba7f))
+- **FIX**: add support for AGP 8.0 ([#10901](https://github.com/firebase/flutterfire/issues/10901)). ([a3b96735](https://github.com/firebase/flutterfire/commit/a3b967354294c295a9be8d699a6adb7f4b1dba7f))
 
 ## 10.1.1
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.1.0
 
- - **FEAT**: bump dart sdk constraint to 2.18 ([#10618](https://github.com/firebase/flutterfire/issues/10618)). ([f80948a2](https://github.com/firebase/flutterfire/commit/f80948a28b62eead358bdb900d5a0dfb97cebb33))
+- **FEAT**: bump dart sdk constraint to 2.18 ([#10618](https://github.com/firebase/flutterfire/issues/10618)). ([f80948a2](https://github.com/firebase/flutterfire/commit/f80948a28b62eead358bdb900d5a0dfb97cebb33))
 
 ## 10.0.16
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.15
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.14
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.13
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.12
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.11
 
- - **DOCS**: remove duplicate wording in documentation ([#10229](https://github.com/firebase/flutterfire/issues/10229)). ([d4feb22e](https://github.com/firebase/flutterfire/commit/d4feb22e06899f0db9923264b5345e538a07fbac))
+- **DOCS**: remove duplicate wording in documentation ([#10229](https://github.com/firebase/flutterfire/issues/10229)). ([d4feb22e](https://github.com/firebase/flutterfire/commit/d4feb22e06899f0db9923264b5345e538a07fbac))
 
 ## 10.0.10
 
- - **REFACTOR**: upgrade project to remove warnings from Flutter 3.7 ([#10344](https://github.com/firebase/flutterfire/issues/10344)). ([e0087c84](https://github.com/firebase/flutterfire/commit/e0087c845c7526c11a4241a26d39d4673b0ad29d))
+- **REFACTOR**: upgrade project to remove warnings from Flutter 3.7 ([#10344](https://github.com/firebase/flutterfire/issues/10344)). ([e0087c84](https://github.com/firebase/flutterfire/commit/e0087c845c7526c11a4241a26d39d4673b0ad29d))
 
 ## 10.0.9
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.8
 
- - **REFACTOR**: remove a deprecated FallThroughError ([#10143](https://github.com/firebase/flutterfire/issues/10143)). ([8af7fb41](https://github.com/firebase/flutterfire/commit/8af7fb41b754115e30b73619f3c272d901ab776f))
+- **REFACTOR**: remove a deprecated FallThroughError ([#10143](https://github.com/firebase/flutterfire/issues/10143)). ([8af7fb41](https://github.com/firebase/flutterfire/commit/8af7fb41b754115e30b73619f3c272d901ab776f))
 
 ## 10.0.7
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.6
 
- - **FIX**: cache the result of event.snapshot to be able to compare the value ([#9899](https://github.com/firebase/flutterfire/issues/9899)). ([5f32b812](https://github.com/firebase/flutterfire/commit/5f32b81248906f2502b196b26be2a67456373c70))
+- **FIX**: cache the result of event.snapshot to be able to compare the value ([#9899](https://github.com/firebase/flutterfire/issues/9899)). ([5f32b812](https://github.com/firebase/flutterfire/commit/5f32b81248906f2502b196b26be2a67456373c70))
 
 ## 10.0.5
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.4
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.3
 
- - **REFACTOR**: add `verify` to `QueryPlatform` and change internal `verifyToken` API to `verify` ([#9711](https://github.com/firebase/flutterfire/issues/9711)). ([c99a842f](https://github.com/firebase/flutterfire/commit/c99a842f3e3f5f10246e73f51530cc58c42b49a3))
+- **REFACTOR**: add `verify` to `QueryPlatform` and change internal `verifyToken` API to `verify` ([#9711](https://github.com/firebase/flutterfire/issues/9711)). ([c99a842f](https://github.com/firebase/flutterfire/commit/c99a842f3e3f5f10246e73f51530cc58c42b49a3))
 
 ## 10.0.2
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.1
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 10.0.0
 
 > Note: This release has breaking changes.
 
- - **BREAKING** **FEAT**: Firebase iOS SDK version: `10.0.0` ([#9708](https://github.com/firebase/flutterfire/issues/9708)). ([9627c56a](https://github.com/firebase/flutterfire/commit/9627c56a37d657d0250b6f6b87d0fec1c31d4ba3))
+- **BREAKING** **FEAT**: Firebase iOS SDK version: `10.0.0` ([#9708](https://github.com/firebase/flutterfire/issues/9708)). ([9627c56a](https://github.com/firebase/flutterfire/commit/9627c56a37d657d0250b6f6b87d0fec1c31d4ba3))
 
 ## 9.1.7
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.6
 
- - **DOCS**: removed duplicate words in dart doc comment ([#9620](https://github.com/firebase/flutterfire/issues/9620)). ([cb980a6e](https://github.com/firebase/flutterfire/commit/cb980a6eb3cc08878ca6205e01e4d3e57add81cf))
+- **DOCS**: removed duplicate words in dart doc comment ([#9620](https://github.com/firebase/flutterfire/issues/9620)). ([cb980a6e](https://github.com/firebase/flutterfire/commit/cb980a6eb3cc08878ca6205e01e4d3e57add81cf))
 
 ## 9.1.5
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.4
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.3
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.2
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.1
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.1.0
 
- - **FEAT**: `ServerValue.increment()` now correctly accepts a `num`  to support both integers and doubles. ([#9101](https://github.com/firebase/flutterfire/issues/9101)). ([35cce5b0](https://github.com/firebase/flutterfire/commit/35cce5b03fae00b1753fc9b6ed688c7f020a5007))
+- **FEAT**: `ServerValue.increment()` now correctly accepts a `num` to support both integers and doubles. ([#9101](https://github.com/firebase/flutterfire/issues/9101)). ([35cce5b0](https://github.com/firebase/flutterfire/commit/35cce5b03fae00b1753fc9b6ed688c7f020a5007))
 
 ## 9.0.20
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.19
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.18
 
- - **FIX**: bump `firebase_core_platform_interface` version to fix previous release. ([bea70ea5](https://github.com/firebase/flutterfire/commit/bea70ea5cbbb62cbfd2a7a74ae3a07cb12b3ee5a))
+- **FIX**: bump `firebase_core_platform_interface` version to fix previous release. ([bea70ea5](https://github.com/firebase/flutterfire/commit/bea70ea5cbbb62cbfd2a7a74ae3a07cb12b3ee5a))
 
 ## 9.0.17
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.16
 
- - **REFACTOR**: use "firebase" instead of "FirebaseExtended" as organisation in all links for this repository (#8791). ([d90b8357](https://github.com/firebase/flutterfire/commit/d90b8357db01d65e753021358668f0b129713e6b))
- - **DOCS**: point to "firebase.google" domain for hyperlinks in the usage section of `README.md` files (#8814). ([78006e0d](https://github.com/firebase/flutterfire/commit/78006e0d5b9dce8038ce3606a43ddcbc8a4a71b9))
+- **REFACTOR**: use "firebase" instead of "FirebaseExtended" as organisation in all links for this repository (#8791). ([d90b8357](https://github.com/firebase/flutterfire/commit/d90b8357db01d65e753021358668f0b129713e6b))
+- **DOCS**: point to "firebase.google" domain for hyperlinks in the usage section of `README.md` files (#8814). ([78006e0d](https://github.com/firebase/flutterfire/commit/78006e0d5b9dce8038ce3606a43ddcbc8a4a71b9))
 
 ## 9.0.15
 
- - **REFACTOR**: use `firebase.google.com` link for `homepage` in `pubspec.yaml` (#8732). ([63aa1011](https://github.com/firebase/flutterfire/commit/63aa10118e3fa541b276fed5828bd7db368c5ebd))
+- **REFACTOR**: use `firebase.google.com` link for `homepage` in `pubspec.yaml` (#8732). ([63aa1011](https://github.com/firebase/flutterfire/commit/63aa10118e3fa541b276fed5828bd7db368c5ebd))
 
 ## 9.0.14
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.13
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.12
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.11
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.10
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.9
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.8
 
- - **FIX**: update all Dart SDK version constraints to Dart >= 2.16.0 (#8184). ([df4a5bab](https://github.com/firebase/flutterfire/commit/df4a5bab3c029399b4f257a5dd658d302efe3908))
+- **FIX**: update all Dart SDK version constraints to Dart >= 2.16.0 (#8184). ([df4a5bab](https://github.com/firebase/flutterfire/commit/df4a5bab3c029399b4f257a5dd658d302efe3908))
 
 ## 9.0.7
 
- - Update a dependency to the latest release.
+- Update a dependency to the latest release.
 
 ## 9.0.6
 
- - **FIX**: Fix `MissingPluginException` caused by malformed EventChannel name. (#7859). ([b69be414](https://github.com/firebase/flutterfire/commit/b69be414d46afa047d44d96bb46878e48db594d8))
+- **FIX**: Fix `MissingPluginException` caused by malformed EventChannel name. (#7859). ([b69be414](https://github.com/firebase/flutterfire/commit/b69be414d46afa047d44d96bb46878e48db594d8))
 
 ## 9.0.5
 
- - **FIX**: bump Android `compileSdkVersion` to 31 (#7726). ([a9562bac](https://github.com/firebase/flutterfire/commit/a9562bac60ba927fb3664a47a7f7eaceb277dca6))
+- **FIX**: bump Android `compileSdkVersion` to 31 (#7726). ([a9562bac](https://github.com/firebase/flutterfire/commit/a9562bac60ba927fb3664a47a7f7eaceb277dca6))
 
 ## 9.0.4
 
- - **REFACTOR**: fix all `unnecessary_import` analyzer issues introduced with Flutter 2.8. ([7f0e82c9](https://github.com/firebase/flutterfire/commit/7f0e82c978a3f5a707dd95c7e9136a3e106ff75e))
- - **FIX**: remove trailing `/` from `databaseUrl` if present. (#7601). ([abe4c2c7](https://github.com/firebase/flutterfire/commit/abe4c2c7e3c9828ffc508d3be5da576e79eb3e73))
+- **REFACTOR**: fix all `unnecessary_import` analyzer issues introduced with Flutter 2.8. ([7f0e82c9](https://github.com/firebase/flutterfire/commit/7f0e82c978a3f5a707dd95c7e9136a3e106ff75e))
+- **FIX**: remove trailing `/` from `databaseUrl` if present. (#7601). ([abe4c2c7](https://github.com/firebase/flutterfire/commit/abe4c2c7e3c9828ffc508d3be5da576e79eb3e73))
 
 ## 9.0.3
 
- - **FIX**: downgrade the Android min SDK to 19 (#7533). ([c657adec](https://github.com/firebase/flutterfire/commit/c657adeca078a83ad7157eba91179f3e3ddb5001))
+- **FIX**: downgrade the Android min SDK to 19 (#7533). ([c657adec](https://github.com/firebase/flutterfire/commit/c657adeca078a83ad7157eba91179f3e3ddb5001))
 
 ## 9.0.2
 
- - **FIX**: web reference `path` should now correctly return a path string. ([f9995ce0](https://github.com/firebase/flutterfire/commit/f9995ce043d8d60d1e74077064f0df2226291738))
- - **FIX**: database path should default to `/` if no path specified rather than an empty string (fixes #7515). ([c33c3c93](https://github.com/firebase/flutterfire/commit/c33c3c931d7e4c654dd0b2cd23d800b43192d95d))
+- **FIX**: web reference `path` should now correctly return a path string. ([f9995ce0](https://github.com/firebase/flutterfire/commit/f9995ce043d8d60d1e74077064f0df2226291738))
+- **FIX**: database path should default to `/` if no path specified rather than an empty string (fixes #7515). ([c33c3c93](https://github.com/firebase/flutterfire/commit/c33c3c931d7e4c654dd0b2cd23d800b43192d95d))
 
 ## 9.0.1
 
- - **FIX**: issue where setting a `databaseURL` can sometimes be ignored (fixes #7502) (#7510).
- - **FIX**: add missing `path` getter for Query (fixes #7495).
- - **DOCS**: fix changelog formatting.
- - **DOCS**: update documentation of `setPersistenceEnabled` to reflect updated return type (fixes #7496) (#7501).
+- **FIX**: issue where setting a `databaseURL` can sometimes be ignored (fixes #7502) (#7510).
+- **FIX**: add missing `path` getter for Query (fixes #7495).
+- **DOCS**: fix changelog formatting.
+- **DOCS**: update documentation of `setPersistenceEnabled` to reflect updated return type (fixes #7496) (#7501).
 
 ## 9.0.0
 
