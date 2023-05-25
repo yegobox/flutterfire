@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   firebase_auth:
-      path: ../firebase_auth/firebase_auth
+      path: ../firebase_auth
   firebase_ui_oauth:
     path: ../firebase_ui_oauth
   flutter:

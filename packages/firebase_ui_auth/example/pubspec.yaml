@@ -23,7 +23,7 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.2
   firebase_auth:
-      path: ../firebase_auth/firebase_auth
+      path: ../firebase_auth
   dependencies:
   firebase_core:
       git:
