@@ -17,7 +17,7 @@ dependency_overrides:
     path: ../firebase_dynamic_links/firebase_dynamic_links
   firebase_dynamic_links_platform_interface:
     path: ../firebase_dynamic_links/firebase_dynamic_links_platform_interface
-  firebase_ui_auth: ^1.4.1-flipper
+  firebase_ui_auth: ^1.4.1-flipper-flipper
   firebase_ui_localizations:
     path: ../firebase_ui_localizations
   firebase_ui_oauth: ^1.4.1-flipper
