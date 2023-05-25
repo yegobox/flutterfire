@@ -22,8 +22,7 @@ environment:
 
 dependencies:
   cupertino_icons: ^1.0.2
-  firebase_auth:
-      path: ../firebase_auth
+  firebase_auth: ^4.6.1-flipper
   dependencies:
   firebase_core:
       git:
@@ -36,8 +35,7 @@ dependencies:
     sdk: flutter
   firebase_ui_auth: ^1.4.1
   firebase_ui_localizations: ^1.5.0
-  firebase_ui_oauth:
-    path: ../firebase_ui_oauth
+  firebase_ui_oauth: ^1.4.1-flipper
   firebase_ui_oauth_apple: ^1.2.1
   firebase_ui_oauth_facebook: ^1.2.1
   firebase_ui_oauth_google: ^1.2.1

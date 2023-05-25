@@ -10,10 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_auth:
-      path: ../firebase_auth
-  firebase_ui_oauth:
-    path: ../firebase_ui_oauth
+  firebase_auth: ^4.6.1-flipper
+  firebase_ui_oauth: ^1.4.1-flipper
   twitter_login: ^4.3.2
 
 dev_dependencies:

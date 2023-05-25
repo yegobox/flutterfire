@@ -8,10 +8,8 @@ environment:
   flutter: '>=3.3.0'
 
 dependencies:
-  firebase_auth:
-      path: ../firebase_auth
-  firebase_ui_oauth:
-    path: ../firebase_ui_oauth
+  firebase_auth: ^4.6.1-flipper
+  firebase_ui_oauth: ^1.4.1-flipper
   flutter:
     sdk: flutter
   flutter_facebook_auth: ^5.0.8
