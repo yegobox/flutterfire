@@ -12,13 +12,13 @@ dependencies:
   firebase_auth:
     git:
         url: https://github.com/yegobox/flutterfire.git
-        ref: fb62f7b3392311089d56d332386667ed73f21832
+        ref: 98f0ec7e2a5d02212f6da05d31e0a1e99733c2b8
         path: packages/firebase_auth/firebase_auth
   # firebase_ui_auth: ^1.4.1
   firebase_ui_auth:
     git:
         url: https://github.com/yegobox/flutterfire.git
-        ref: fb62f7b3392311089d56d332386667ed73f21832
+        ref: 98f0ec7e2a5d02212f6da05d31e0a1e99733c2b8
         path: packages/firebase_ui_auth
   firebase_ui_shared: ^1.3.0
   flutter_svg: ^2.0.5
