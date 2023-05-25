@@ -8,8 +8,16 @@ environment:
   flutter: '>=3.3.0'
 
 dependencies:
-  firebase_auth: ^4.6.1
-  firebase_ui_oauth: ^1.4.1
+  firebase_auth:
+    git:
+        url: https://github.com/yegobox/flutterfire.git
+        ref: 41eaf8456209927725bccbb1c4d3c32a7ea20997
+        path: packages/firebase_auth/firebase_auth
+  firebase_ui_oauth:
+    git:
+        url: https://github.com/yegobox/flutterfire.git
+        ref: 41eaf8456209927725bccbb1c4d3c32a7ea20997
+        path: packages/firebase_ui_oauth
   flutter:
     sdk: flutter
   flutter_facebook_auth: ^5.0.8
